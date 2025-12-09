@@ -7,7 +7,7 @@
 
 #define DIR1 1
 #define DIR2 2
-#define MAX_THREADS 20
+#define MAX_THREADS 30
 
 typedef struct {
     int queue[MAX_THREADS];
